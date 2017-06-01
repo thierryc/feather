@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## Unreleased
+
+### Fixed
+
+- Fix stroke color of `box`, `link-2` and `package` (`#0f0f0f` to `#000`)
+
 ## v2.1.0 (2017-05-30)
 
 ### Added

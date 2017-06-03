@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 <details>
   <summary>Add # icons</summary>
 
+  - `film`
   - `github`
 </details>
 

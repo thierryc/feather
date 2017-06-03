@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 
+### Added
+
+<details>
+  <summary>Add # icons</summary>
+
+  - `github`
+</details>
+
 ### Fixed
 
 - Fix stroke color of `box`, `link-2` and `package` (`#0f0f0f` to `#000`)
